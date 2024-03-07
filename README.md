@@ -25,7 +25,7 @@
 
 ### Long Courses
 
-- [Scrimba Front-End Developer Career Path](https://scrimba.com/learn/frontend) (87% complete)
+- [Scrimba Front-End Developer Career Path](https://scrimba.com/learn/frontend) (91% complete)
 - [PHP with MySQL Essential Training 1](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics) (Kevin Skoglund, LinkedIn Learning)
 
 ### Shorter Courses
