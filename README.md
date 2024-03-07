@@ -12,8 +12,8 @@
 
 - [What the Flexbox?!](https://flexbox.io/) - Wes Bos
 - [Conquering Responsive Layouts](https://courses.kevinpowell.co/courses/conquering-responsive-layouts) - Kevin Powell
-- [Learn Responsive Design](https://web.dev/learn/design/)
-- [Learn Forms](https://web.dev/learn/forms/)
+- [Learn Responsive Design](https://web.dev/learn/design/) - web.dev (Google Chrome)
+- [Learn Forms](https://web.dev/learn/forms/) - web.dev (Google Chrome)
 - [Just JavaScript](https://justjavascript.com/) - Dan Abromov & Maggie Appleton
 - [PHP for WordPress](https://www.linkedin.com/learning/php-for-wordpress) - Joe Casabona (LinkedIn Learning)
 - [Unix Essential Training](https://www.linkedin.com/learning/unix-essential-training) - Kevin Skoglund (LinkedIn Learning)
