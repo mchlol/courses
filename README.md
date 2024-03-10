@@ -4,7 +4,8 @@
 
 ### Long Courses
 
-- [JavaScript Development](https://generalassemb.ly/education/javascript-development/sydney) - General Assembly (3 month live course)
+- [The Front-End Developer Career Path](https://scrimba.com/learn/frontend) - Scrimba (6 months)
+- [JavaScript Development](https://generalassemb.ly/education/javascript-development/sydney) - General Assembly (12 weeks)
 - [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 - [Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/mchlol/responsive-web-design) - freeCodeCamp
 
@@ -12,8 +13,8 @@
 
 - [What the Flexbox?!](https://flexbox.io/) - Wes Bos
 - [Conquering Responsive Layouts](https://courses.kevinpowell.co/courses/conquering-responsive-layouts) - Kevin Powell
-- [Learn Responsive Design](https://web.dev/learn/design/)
-- [Learn Forms](https://web.dev/learn/forms/)
+- [Learn Responsive Design](https://web.dev/learn/design/) - web.dev (Google Chrome)
+- [Learn Forms](https://web.dev/learn/forms/) - web.dev (Google Chrome)
 - [Just JavaScript](https://justjavascript.com/) - Dan Abromov & Maggie Appleton
 - [PHP for WordPress](https://www.linkedin.com/learning/php-for-wordpress) - Joe Casabona (LinkedIn Learning)
 - [Unix Essential Training](https://www.linkedin.com/learning/unix-essential-training) - Kevin Skoglund (LinkedIn Learning)
@@ -25,12 +26,11 @@
 
 ### Long Courses
 
-- [Scrimba Front-End Developer Career Path](https://scrimba.com/learn/frontend) (87% complete)
-- [PHP with MySQL Essential Training 1](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics) (Kevin Skoglund, LinkedIn Learning)
+- [PHP with MySQL Essential Training 1](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics) - Kevin Skoglund (LinkedIn Learning)
 
 ### Shorter Courses
 
-- [Agile Software Development](https://www.linkedin.com/learning/agile-software-development) (Shaski Shekhar, LinkedIn Learning)
+- [Agile Software Development](https://www.linkedin.com/learning/agile-software-development) - Shaski Shekhar (LinkedIn Learning)
 
 ## Paused
 
@@ -41,4 +41,4 @@
 
 ### Shorter Courses
 
-- [CSS Grid](https://cssgrid.io/) - Wes Bos
+- [CSS Grid](https://cssgrid.io/) - Wes Bos (88% complete)
