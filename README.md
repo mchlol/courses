@@ -32,7 +32,7 @@
 
 - [Agile Software Development](https://www.linkedin.com/learning/agile-software-development) - Shaski Shekhar (LinkedIn Learning)
 
-## Paused
+<!-- ## Paused
 
 ### Long Courses
 
@@ -41,4 +41,4 @@
 
 ### Shorter Courses
 
-- [CSS Grid](https://cssgrid.io/) - Wes Bos
+- [CSS Grid](https://cssgrid.io/) - Wes Bos -->
