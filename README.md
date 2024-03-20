@@ -41,4 +41,4 @@
 
 ### Shorter Courses
 
-- [CSS Grid](https://cssgrid.io/) - Wes Bos (88% complete)
+- [CSS Grid](https://cssgrid.io/) - Wes Bos
