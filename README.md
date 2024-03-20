@@ -11,16 +11,16 @@
 
 ### Shorter Courses
 
+- [Programming Foundations - Web Security](https://www.linkedin.com/learning/programming-foundations-web-security-22680062) - Kevin Skoglund (LinkedIn Learning)
+- [Learning Next.js](https://www.linkedin.com/learning/learning-next-js) - Sandy Ludosky (LinkedIn Learning)
+- [Unix Essential Training](https://www.linkedin.com/learning/unix-essential-training) - Kevin Skoglund (LinkedIn Learning)
+- [WordPress Essential Training](https://www.linkedin.com/learning/wordpress-essential-training-22616273) - Allie Nimmons (LinkedIn Learning)
+- [PHP for WordPress](https://www.linkedin.com/learning/php-for-wordpress) - Joe Casabona (LinkedIn Learning)
+- [Just JavaScript](https://justjavascript.com/) - Dan Abromov & Maggie Appleton
 - [What the Flexbox?!](https://flexbox.io/) - Wes Bos
 - [Conquering Responsive Layouts](https://courses.kevinpowell.co/courses/conquering-responsive-layouts) - Kevin Powell
 - [Learn Responsive Design](https://web.dev/learn/design/) - web.dev (Google Chrome)
 - [Learn Forms](https://web.dev/learn/forms/) - web.dev (Google Chrome)
-- [Just JavaScript](https://justjavascript.com/) - Dan Abromov & Maggie Appleton
-- [PHP for WordPress](https://www.linkedin.com/learning/php-for-wordpress) - Joe Casabona (LinkedIn Learning)
-- [Unix Essential Training](https://www.linkedin.com/learning/unix-essential-training) - Kevin Skoglund (LinkedIn Learning)
-- [Programming Foundations - Web Security](https://www.linkedin.com/learning/programming-foundations-web-security-22680062) - Kevin Skoglund (LinkedIn Learning)
-- [Learning Next.js](https://www.linkedin.com/learning/learning-next-js) - Sandy Ludosky (LinkedIn Learning)
-- [WordPress Essential Training](https://www.linkedin.com/learning/wordpress-essential-training-22616273) - Allie Nimmons (LinkedIn Learning)
 
 ## In Progress
 
