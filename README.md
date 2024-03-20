@@ -4,7 +4,8 @@
 
 ### Long Courses
 
-- [JavaScript Development](https://generalassemb.ly/education/javascript-development/sydney) - General Assembly (3 month live course)
+- [The Front-End Developer Career Path](https://scrimba.com/learn/frontend) - Scrimba (6 months)
+- [JavaScript Development](https://generalassemb.ly/education/javascript-development/sydney) - General Assembly (12 weeks)
 - [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 - [Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/mchlol/responsive-web-design) - freeCodeCamp
 
@@ -25,12 +26,11 @@
 
 ### Long Courses
 
-- [Scrimba Front-End Developer Career Path](https://scrimba.com/learn/frontend) (91% complete)
-- [PHP with MySQL Essential Training 1](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics) (Kevin Skoglund, LinkedIn Learning)
+- [PHP with MySQL Essential Training 1](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics) - Kevin Skoglund (LinkedIn Learning)
 
 ### Shorter Courses
 
-- [Agile Software Development](https://www.linkedin.com/learning/agile-software-development) (Shaski Shekhar, LinkedIn Learning)
+- [Agile Software Development](https://www.linkedin.com/learning/agile-software-development) - Shaski Shekhar (LinkedIn Learning)
 
 ## Paused
 
